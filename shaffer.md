@@ -1,10 +1,12 @@
 ---
 layout: post
 title: Online resources in an inverted course
+author: Kris Shaffer
 ---
 
-{{ page.title }}
-================
+{{ page.title }}  
+================  
+**{{ page.author }}**
 
 Inverted courses tend to make significant use of digital course materials and online resource sharing. Of course, an inverted course can use a textbook and paper-based assignments just like any other, and traditional lecture and lab-based courses can incorporate substantial online materials. However, the increased possibilities afforded by digital technology support the goals of an inverted course well. In what follows, I offer some guidance for those who want to take full advantage of these technological opportunities in an inverted course, particularly for those who want to customize a solution for their specific courses.
 
