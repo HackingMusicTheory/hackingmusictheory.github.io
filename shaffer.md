@@ -31,12 +31,12 @@ For FERPA-protected materials, such as grades, assessment reports, assignment su
 Information transfer, of course, is not the focus of an inverted course. Rather, the focus is on the active work that students do, particularly in collaboration with each other and/or the instructor. Thus, discussion and collaboration tools can be very helpful to support active learning in an inverted course.
 
 
-# Student discussion #
+# Hacking student discussion #
 
 An online tool for student discussion—whether outside of class, or in-class but across work groups—is particularly helpful for the [inquiry-based model of the inverted class](http://www.flipcamp.org/engagingstudents/shafferpt3.html). I have used Twitter for this purpose, with great success, as has [Alex Ludwig](http://www.flipcamp.org/engagingstudents/ludwig.html) for similar purposes. This semester, I have experimented with the online discussion platform [Piazza](http://piazza.com), with mixed results. While better than many discussion forums that come natively within LMSes, and while sporting a private, FERPA-complainant, threaded forum that Twitter does not, Piazza is not ideally suited to inquiry-oriented activities. It assumes that any question asked in the forum has a single answer—provided by the instructor, or by students in collaboration. In inquiry-oriented activities, however, the messiness of Twitter is more natural. In a "[basic flip](http://www.flipcamp.org/engagingstudents/shafferpt1.html)" or other class environment, the single-answer approach may work. Piazza can be hacked, however, by instructing students to avoid the "students' answer" option and instead use "followup discussion" for the entirety of the initial analysis process. Once the analysis is closing up, students can then return to the collaborative student answer to work out a more refined response together, or (my preference) use a dedicated collaborative writing tool in small groups to work out a more polished prose response to the analysis performed by the whole class.
 
 
-# Collaborative student work #
+# Hacking collaborative student work #
 
 Collaborative creative work is central to the active, student-centered approach of the inverted class. In a music theory class, this could involve anything from working out contrapuntal exercises with a partner to composing a work of prose, poetry, or music in groups to taking notes collaboratively as an entire class. For some of these activities, technological aids have not yet caught up to the pedagogy. However, there are several (kinds of) helpful tools for collaborative student work, and the field of options is growing fairly quickly.
 
@@ -60,7 +60,7 @@ Less tools exist to facilitate collaborative (model) composition and composition
 
 First, students can share music notation files with each other in a shared folder on Google Drive. Simultaneous editing and version control are not available in this configuration, but uploading and downloading files to Google Drive is an easy task for students to master. Further, all major notation applications have some level of support for MusicXML files, meaning that students can potentially collaborate on a project from different applications, albeit with limitations.
 
-Another option is [NoteFlight](http://noteflight.com)'s paid Crescendo service. Crescendo not only gives students access to more advanced music notation features than the free version, but it allows sophisticated file sharing, including the ability for multiple people to view, comment on, and/or edit scores. NoteFlight also offers version control.
+Another option is [NoteFlight](http://noteflight.com)'s paid Crescendo service. Crescendo not only gives students access to more advanced music notation features than the free version of NoteFlight, but it allows sophisticated file sharing, including the ability for multiple people to view, comment on, and/or edit scores. NoteFlight also offers version control.
 
 [MuseScore](http://musescore.org), a free and open-source notation application that tends to be the most popular application among my students when given a choice, also allows private and public sharing of scores online, but does not allow editing of shared scores. MuseScore files can, of course, be uploaded to GoogleDrive.
 
