@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Title
+title: Setting up a standards-based gradebook
 author: Philip Duker
 ---
 
