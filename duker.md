@@ -14,12 +14,12 @@ Additionally, here are two quick tutorials to walk you through the process of fi
 
 
 
-<iframe src="http://player.vimeo.com/video/77757257" width="750" height="690" frameborder="0" webkitAllowFullScreen="" mozallowfullscreen="" allowFullScreen=""> </iframe> 
+<iframe src="http://player.vimeo.com/video/77757257" width="500" height="313" frameborder="0" webkitAllowFullScreen="" mozallowfullscreen="" allowFullScreen=""> </iframe> 
 
 *[SBGSetup (Philip Duker)](http://vimeo.com/77757257) from [FlipCamp](http://vimeo.com/user19882083) on [Vimeo](http://vimeo.com).*
 
 And here's one for entering grades for a couple assignments:
 
-<iframe src="http://player.vimeo.com/video/77760283" width="750" height="690" frameborder="0" webkitAllowFullScreen="" mozallowfullscreen="" allowFullScreen=""> </iframe> 
+<iframe src="http://player.vimeo.com/video/77760283" width="500" height="313" frameborder="0" webkitAllowFullScreen="" mozallowfullscreen="" allowFullScreen=""> </iframe> 
 
 *[SBGGradeInput (Philip Duker)](http://vimeo.com/77760283) from [FlipCamp](http://vimeo.com/user19882083) on [Vimeo](http://vimeo.com).*
