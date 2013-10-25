@@ -16,7 +16,7 @@ Additionally, here are two quick tutorials to walk you through the process of fi
 <div style="text-align: center;">
 <iframe src="//player.vimeo.com/video/77757257" width="500" height="313" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 
-<p><a href="http://vimeo.com/77757257">SBGSetup</a> from <a href="http://vimeo.com/user19882083">Flip Camp</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<p><i><a href="http://vimeo.com/77757257">SBGSetup</a> from <a href="http://vimeo.com/user19882083">Flip Camp</a> on <a href="https://vimeo.com">Vimeo</a>.</i></p>
 </div>
 
 And here's one for entering grades for a couple assignments:
@@ -24,4 +24,4 @@ And here's one for entering grades for a couple assignments:
 <div style="text-align: center;">
 <iframe src="//player.vimeo.com/video/77760283" width="500" height="313" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 
-<p><a href="http://vimeo.com/77760283">SBGGradeInput</a> from <a href="http://vimeo.com/user19882083">Flip Camp</a> on <a href="https://vimeo.com">Vimeo</a>.</p></div>
+<p><i><a href="http://vimeo.com/77760283">SBGGradeInput</a> from <a href="http://vimeo.com/user19882083">Flip Camp</a> on <a href="https://vimeo.com">Vimeo</a>.</i></p></div>
