@@ -51,14 +51,14 @@ University: fundamentals, species counterpoint, diatonic harmonic
 idioms, harmonic sequences, periods and phrases, applied chords, and
 modulation. Here are some lessons I’ve learned:
 
-1. Compress the topic. Aim for clarity and brevity rather than
+**1. Compress the topic.** Aim for clarity and brevity rather than
 comprehensiveness. Think of the videos as a bare-bones introduction that
 will be fleshed out and further contextualized in class. I still have to
 remind myself to not overteach online, but it helps to ask myself what
 is the least amount of information students would need to know to get
 started on an activity.
 
-2. Keep up the pace. Online time is different than in-person time. The
+**2. Keep up the pace.** Online time is different than in-person time. The
 declamation style I developed for delivering information in the
 classroom (speaking slowly, pausing to let the note-takers catch up,
 emphasizing the main points though repetition) sounds lugubrious on the
@@ -66,7 +66,7 @@ video. It also sounds that way in class, but there it serves a function
 that is unnecessary online. Students control the pause button, so the
 actual pace of the videos can be faster than most in-person lectures.
 
-3. Keep the videos short. It is an oft-repeated canard among educators
+**3. Keep the videos short.** It is an oft-repeated canard among educators
 that college students’ attention tends to drift after about 10-15
 minutes of lecture, although it’s [probably more
 likely](http://teachingcenter.wustl.edu/Journal/Reviews/Pages/student-attention.aspx) that
@@ -76,7 +76,7 @@ propose 5-10 minutes as the ideal length for an online lecture. More
 constrained topics could be covered in even less time, while more
 complex topics could be broken into digestible chunks.
 
-4. Make the video interactive. Many of my video lessons fall into two
+**4. Make the video interactive.** Many of my video lessons fall into two
 parts: a short lecture covering the basics of a given topic followed by
 a demonstration of selected writing or analysis exercises. During the
 [demonstration
@@ -87,7 +87,7 @@ answer. This emphasizes the procedural sequence and helps keep students
 engaged. When they see my answer, it gives them immediate feedback as to
 whether or not they’re on the right track.
 
-5. Provide an alternative. While the vast majority of my students
+**5. Provide an alternative.** While the vast majority of my students
 appreciate the advantages online videos offer, there are always some
 students who feel they simply cannot learn “from a computer.” I usually
 assign short handouts or textbook readings that everyone can use as a
