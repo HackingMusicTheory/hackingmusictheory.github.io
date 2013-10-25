@@ -13,10 +13,11 @@ One of the biggest hurdles in switching over to a Standards Based Grading system
 Additionally, here are two quick tutorials to walk you through the process of first setting up the spreadsheet: 
 
 
-
+<div style="text-align: center;">
 <iframe src="http://player.vimeo.com/video/77757257" width="500" height="313" frameborder="0" webkitAllowFullScreen="" mozallowfullscreen="" allowFullScreen=""> </iframe> 
 
 *[SBGSetup (Philip Duker)](http://vimeo.com/77757257) from [FlipCamp](http://vimeo.com/user19882083) on [Vimeo](http://vimeo.com).*
+</div>
 
 And here's one for entering grades for a couple assignments:
 
