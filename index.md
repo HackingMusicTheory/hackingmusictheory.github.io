@@ -26,7 +26,7 @@ The primary questions that we will address in the flipped portion of the session
 The principal resources we have created to support the discussion of these questions are:
 
 - **[Setting up a standards-based gradebook](duker.html), Philip Duker**  
-- Gawboy resource forthcoming  
+- **[Hacking the music theory lecture](gawboy.html), Anna Gawboy** 
 - **[The impact of online education on our jobs](hughes.html), Bryn Hughes**  
 - **[Online resources in an inverted course](shaffer.html), Kris Shaffer**  
 

@@ -23,6 +23,7 @@ These efforts raise several questions about copyright, intellectual property, an
 - The American Association of University Professors (AAUP) fears that online courses are [a threat to intellectual property and academic freedom.](http://chronicle.com/article/AAUP-Sees-MOOCs-as-Spawning/139743/)
 - The faculty union at the University of California-Santa Cruz is similarly worried that professors agreeing to teach free online courses are [undermining intellectual property and collective bargaining.](http://www.insidehighered.com/news/2013/03/19/u-california-faculty-union-says-moocs-undermine-professors-intellectual-property#ixzz2WCr52smM)
 - Many faculty have begun to [fight for their right](http://motherboard.vice.com/blog/professors-want-to-own-moocs-before-moocs-own-them) to own their online content. 
+- In a [recent radio interview](https://soundcloud.com/boulderdispatch/massive-open-online-courses), Kris Shaffer and Mark Werner discussed copyright and intellectual property issues surrounding MOOCs and, more generally, online pedagogical resources
 
 **What is our role once we've finished creating our online course materials?**
 
