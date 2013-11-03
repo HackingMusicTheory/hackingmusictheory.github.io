@@ -10,7 +10,7 @@ author: Philip Duker, Anna Gawboy, Bryn Hughes, and Kris Shaffer
 *Society for Music Theory (SMT) Annual Meeting  
 Charlotte, North Carolina, Sunday, November 3, 2013*
 
-**{{ page.author }}**
+## [Discuss online during the session](discuss.html)
 
 This special session will focus on three "hacks" to the traditional model of music theory instruction: standards-based grading (SBG), "flipping" the classroom, and just-in-time teaching (JiTT). In SBG, students receive grades in reference to clearly defined learning objectives rather than individual assignments. In the flipped classroom, class time is devoted to active engagement rather than lecture. JiTT assesses students’ understanding before class so that the instructor can adjust the lesson plan according to the students’ needs. These tools and the technologies that support them have the potential to help strengthen curricula, increase the impact that an instructor can have on undergraduate theory students, and reduce the amount of time an instructor must devote to achieve that impact.
 
