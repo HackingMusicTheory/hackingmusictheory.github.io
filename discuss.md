@@ -7,7 +7,7 @@ title: Live discussion feed
   
 Thanks to [Bob Kosovsky](https://twitter.com/kos2) for archiving the live tweets from the session! If you'd like to see what was discussed, the feed is embedded below.
 
-<div class="storify"><iframe src="//storify.com/kos2/hacking-music-theory-pedagogy-nov-3-2013/embed" width="100%" height=750 frameborder=no allowtransparency=true></iframe><script src="//storify.com/kos2/hacking-music-theory-pedagogy-nov-3-2013.js"></script><noscript>[<a href="//storify.com/kos2/hacking-music-theory-pedagogy-nov-3-2013" target="_blank">View the story "Hacking Music Theory Pedagogy - Nov. 3, 2013" on Storify</a>]</noscript></div>
+<div class="storify"><iframe src="//storify.com/kos2/hacking-music-theory-pedagogy-nov-3-2013/embed" width="100%" height=750 frameborder=no allowtransparency=true></iframe><script src="//storify.com/kos2/hacking-music-theory-pedagogy-nov-3-2013.js"></script><noscript></noscript></div>
 
 The most recent \#mtped tweets are embedded below and will continue to update live.
 
