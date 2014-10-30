@@ -29,7 +29,7 @@ The principal resources we have created to support the discussion of these quest
 - **[The impact of online education on our jobs](hughes.html), Bryn Hughes**  
 - **[Online resources in an inverted course](shaffer.html), Kris Shaffer**  
 
-To discuss these issues or resources with the authors or the SMT community in advance of the session, or to ask questions you would like addressed at the session, please comment on the individual resources. If discussing these resources on Twitter, please use the hashtag [*\#mtped*](https://twitter.com/search?q=%23mtped&src=typd&f=realtime) (for "music theory pedagogy"). Two of the panelists will be following the Twitter discussion before, during, and after the session—[Phil Duker](http://twitter.com/philduker), and [Bryn Hughes](http://twitter.com/brynmdhughes)—and all three will monitor the comment threads.
+To discuss these issues or resources with the authors or the CMS community in advance of the session, or to ask questions you would like addressed at the session, please comment on the individual resources. If discussing these resources on Twitter, please use the hashtag [*\#mtped*](https://twitter.com/search?q=%23mtped&src=typd&f=realtime) (for "music theory pedagogy"). Two of the panelists will be following the Twitter discussion before, during, and after the session—[Phil Duker](http://twitter.com/philduker), and [Bryn Hughes](http://twitter.com/brynmdhughes)—and all three will monitor the comment threads.
 
 ## Discussion page ##
 
